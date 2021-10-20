@@ -1,0 +1,10 @@
+C:\Users\aafedotov\Downloads\Car-master\bin\Debug\Машинка.exe.config
+C:\Users\aafedotov\Downloads\Car-master\bin\Debug\Машинка.exe
+C:\Users\aafedotov\Downloads\Car-master\bin\Debug\Машинка.pdb
+C:\Users\aafedotov\Downloads\Car-master\obj\Debug\Машинка.csproj.AssemblyReference.cache
+C:\Users\aafedotov\Downloads\Car-master\obj\Debug\Машинка.Form1.resources
+C:\Users\aafedotov\Downloads\Car-master\obj\Debug\Машинка.Properties.Resources.resources
+C:\Users\aafedotov\Downloads\Car-master\obj\Debug\Машинка.csproj.GenerateResource.cache
+C:\Users\aafedotov\Downloads\Car-master\obj\Debug\Машинка.csproj.CoreCompileInputs.cache
+C:\Users\aafedotov\Downloads\Car-master\obj\Debug\Машинка.exe
+C:\Users\aafedotov\Downloads\Car-master\obj\Debug\Машинка.pdb
